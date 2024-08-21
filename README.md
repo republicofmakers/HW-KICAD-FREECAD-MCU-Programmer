@@ -2,7 +2,7 @@
 
 ![automated programmer](https://github.com/user-attachments/assets/0eea807b-9089-4266-aab2-154845645d0a)
 
-This is MCU Programmer with pogo pins.
+This will be MCU Programmer with pogo pins. It is under development.
 
 I design simple pogo pin testers but these are more suitable for low volume production.
 
