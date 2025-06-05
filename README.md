@@ -1,5 +1,7 @@
 # HW-KICAD-FREECAD-MCU-Programmer
 
+!!! NOT COMPLEATED YET!!!
+
 ![automated programmer](https://github.com/user-attachments/assets/0eea807b-9089-4266-aab2-154845645d0a)
 
 This will be MCU Programmer with pogo pins. It is under development.
