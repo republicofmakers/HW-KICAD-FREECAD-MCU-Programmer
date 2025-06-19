@@ -6,9 +6,9 @@
 
 This will be MCU Programmer with pogo pins. It is under development.
 
-I design simple pogo pin testers but these are more suitable for low volume production.
+Before ,I designed simple pogo pin testers which can program single device but these are more suitable for low volume production.
 
-This is a tester for high volume production. (upto 128 MCU , depend on the panel size)
+This is a tester for high volume production, can program and test multiple PCBs. (upto 128 MCU , depend on the panel size)
 
 This project will provide to :
 
